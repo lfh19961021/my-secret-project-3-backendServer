@@ -5,9 +5,10 @@ with mongoDB atlas
 
 ```npm i```
 
-2. Start frontend server
+2. Start backend server
 
 ```npm start```
 
-3. Browse at
-http://localhost:3000/
+3. API Port: 3001
+
+http://localhost:3001/
