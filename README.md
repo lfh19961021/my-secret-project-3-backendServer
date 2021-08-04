@@ -12,3 +12,8 @@ with mongoDB atlas
 3. API Port: 3001
 
 http://localhost:3001/
+
+
+Feature:
+1. Connected with MongoDB Atlas
+2. CURD Cards data
